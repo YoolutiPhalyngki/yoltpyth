@@ -3,4 +3,4 @@
 greeting = 'Hello'
 name = 'Micheal'
 
-print(help(str))
+print(help(str.lower))
