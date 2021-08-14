@@ -2,6 +2,6 @@
 
 message = 'Hello World'
 
-new_message = message.replace('World', 'Universe')
+message = message.replace('World', 'Universe')
 
-print(new_message)
+print(message)
