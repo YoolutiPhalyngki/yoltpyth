@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
-message = 'Hello World'
+greeting = 'Hello'
+name = 'Micheal'
 
-message = message.replace('World', 'Universe')
+message = greeting + ', ' + name
 
 print(message)
