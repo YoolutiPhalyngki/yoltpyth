@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-message = """Bobby's World was a good
-cartoon in 1990s"""
+message = 'Hello World'
 
-print(message)
+print(len(message))
