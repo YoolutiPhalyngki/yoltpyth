@@ -1,1 +1,5 @@
-print("Hello World")
+#!/usr/bin/env python
+
+message = 'Hello World'
+
+print(message)
