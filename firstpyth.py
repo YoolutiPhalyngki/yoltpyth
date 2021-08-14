@@ -3,4 +3,4 @@
 greeting = 'Hello'
 name = 'Micheal'
 
-print(dir(name))
+print(help(str))
