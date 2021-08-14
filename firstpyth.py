@@ -3,6 +3,6 @@
 greeting = 'Hello'
 name = 'Micheal'
 
-message = '{}, {}. Welcome!'.format(greeting, name)
+message = f'{greeting}, {name}. Welcome!'
 
 print(message)
