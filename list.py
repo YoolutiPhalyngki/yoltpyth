@@ -3,6 +3,6 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-courses.remove('Math')
+courses.pop()
 
 print(courses)
