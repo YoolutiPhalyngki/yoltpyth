@@ -10,9 +10,5 @@
 # Exponent: 3 ** 2
 # Modulus: 3 % 2
 
-num = 1
-
-num += 1
-
-print(num)
+print(abs(-3))
 
