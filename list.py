@@ -3,4 +3,6 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-print(courses[2:])
+courses.append('Art')
+
+print(courses)
