@@ -9,4 +9,4 @@ sorted_courses = sorted(courses)
 
 
 # print(sorted_courses)
-print(max(nums))
+print(sum(nums))
