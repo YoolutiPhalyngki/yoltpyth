@@ -3,7 +3,6 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-popped = courses.pop()
+courses.reverse()
 
-print(popped)
 print(courses)
