@@ -3,6 +3,6 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-courses.append('Art')
+courses.insert(0, 'Art')
 
 print(courses)
