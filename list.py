@@ -3,6 +3,7 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-courses.pop()
+popped = courses.pop()
 
+print(popped)
 print(courses)
