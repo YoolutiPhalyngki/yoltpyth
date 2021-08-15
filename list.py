@@ -3,4 +3,4 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-print(courses[-1])
+print(courses[2:])
