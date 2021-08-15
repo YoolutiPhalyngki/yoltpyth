@@ -3,6 +3,6 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-for item in courses:
-    print(item)
+for index, course in enumerate(courses):
+    print(index, course)
 
