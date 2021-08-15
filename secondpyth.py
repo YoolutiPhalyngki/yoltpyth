@@ -10,5 +10,5 @@
 # Exponent: 3 ** 2
 # Modulus: 3 % 2
 
-print(round(3.75))
+print(round(3.75, 1))
 
