@@ -3,6 +3,6 @@
 
 courses = ['History', 'Math', 'Physics', 'CompSci']
 
-courses.reverse()
+courses.sort()
 
 print(courses)
