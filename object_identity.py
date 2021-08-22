@@ -15,3 +15,4 @@ b = a
 print(id(a))
 print(id(b))
 print(a is b)
+print(id(a) == id(b))
