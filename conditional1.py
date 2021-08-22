@@ -16,7 +16,7 @@
 user = 'Admin'
 logged_in = False
 
-if user == 'Admin' or logged_in:
-    print('Admin Page')
+if not logged_in:
+    print('Please Log In')
 else:
-    print('Bad Creds')
+    print('Welcome')
